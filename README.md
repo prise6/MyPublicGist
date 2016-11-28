@@ -16,4 +16,4 @@ My public gists are just some short code to remember some tricks i used or found
 
 * [R-ip-range-by-date.R](https://gist.github.com/prise6/b873f4934083dd9e70e4977da711be0d) : getting ip range by date with Regional Internet Registry (RIR) informations
 
-* [r-decision-graph.R](https://gist.github.com/prise6/7d8602867e33f021bed6a87052027ac2) : plot decision graph for classification models
+* [R-decision-graph.R](https://gist.github.com/prise6/7d8602867e33f021bed6a87052027ac2) : plot decision graph for classification models
