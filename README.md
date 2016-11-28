@@ -15,3 +15,5 @@ My public gists are just some short code to remember some tricks i used or found
 * [shiny-gvis-sankey-responsive.R](https://gist.github.com/prise6/afa56434c23d3c9501cb79d43945e3cd) : making pseudo responsive sankey with google vis library in shiny 
 
 * [R-ip-range-by-date.R](https://gist.github.com/prise6/b873f4934083dd9e70e4977da711be0d) : getting ip range by date with Regional Internet Registry (RIR) informations
+
+* [r-decision-graph.R](https://gist.github.com/prise6/7d8602867e33f021bed6a87052027ac2) : plot decision graph for classification models
